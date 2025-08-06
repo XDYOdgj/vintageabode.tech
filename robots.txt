@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://vintageabode.tech/sitemap.xml
